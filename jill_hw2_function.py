@@ -1,7 +1,8 @@
-#Jill Lee
-#March 22, 2011
+#Jill Lee!!!
+#March 22, 2011!!!!!!!
 #Homework 2 Problem 5
 #This program takes two values for x in the equation f(x)=4x(1-x) and calculates it for the number of times the user designates.
+#The while-true-try exception handling loop idea is from http://stackoverflow.com/questions/2244270/get-a-try-statement-to-loop-around-until-correct-value-obtained
 
 #This is the function for calculating and printing the answers. 
 def function(x,n):
@@ -18,8 +19,7 @@ def function(x,n):
     else:
         print("Initial value",str(x)+",",n,"iterations:")
     for i in range(n):
-):
-                x=4*x*(1-x)
+        x=4*x*(1-x)
         print(x)
 
 #Taking inputs        
